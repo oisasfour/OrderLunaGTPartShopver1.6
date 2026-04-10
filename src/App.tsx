@@ -137,14 +137,14 @@ export default function App() {
       category: "custom",
       name: { th: "Performance Parts", en: "Performance Parts" },
       price: { public: 7000, general: 5500, partner: 5300, premium: 5000 },
-      img: "https://img2.pic.in.th/Screenshot-2026-02-17-034351.png",
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215327.png",
     },
     {
       id: 102,
       category: "custom",
       name: { th: "Stancer Kit", en: "Stancer Kit" },
       price: { general: 1800, partner: 1650, premium: 1500 },
-      img: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215441.png",
     },
     {
       id: 103,
@@ -291,7 +291,7 @@ export default function App() {
       category: "consumable",
       name: { th: "Fuel Filter", en: "Fuel Filter" },
       price: { general: 180, partner: 160, premium: 150 },
-      img: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215321.png",
     },
     {
       id: 304,
