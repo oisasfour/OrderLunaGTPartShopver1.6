@@ -90,8 +90,8 @@ export default function App() {
       type: "premium",
     },
 
-    "1234": {
-      password: "1234",
+    "9079774602": {
+      password: "101033",
       type: "premium",
     },
 
@@ -551,7 +551,7 @@ export default function App() {
             }}
           />
 
-          <h2 style={{ color: "#6d4c41" }}>LunarGT PartShop 1.6.00</h2>
+          <h2 style={{ color: "#6d4c41" }}>LunarGT PartShop 1.6.0</h2>
         </div>
 
         <button
