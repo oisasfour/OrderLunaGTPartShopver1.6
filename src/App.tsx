@@ -198,7 +198,7 @@ export default function App() {
         premium: 700,
       },
 
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214850.png",
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-12-041049.png",
     },
     // --------------------
     // MAIN SERVICE
