@@ -551,7 +551,7 @@ export default function App() {
             }}
           />
 
-          <h2 style={{ color: "#6d4c41" }}>LunarGT PartShop 1.6.0</h2>
+          <h2 style={{ color: "#6d4c41" }}>LunarGT PartShop 1.6.1</h2>
         </div>
 
         <button
